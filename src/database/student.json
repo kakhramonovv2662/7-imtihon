@@ -1,0 +1,6 @@
+[
+  { "id": 0, "username": "Ibrohim", "age": 17, "balance": 70000 },
+  { "id": 1, "username": "Nozim", "age": 19, "balance": 700500 },
+  { "id": 2, "username": "Kozim", "age": 22, "balance": 1000000 },
+  { "id": 3, "username": "Sadriddin", "age": 23, "balance": 123453 }
+]
