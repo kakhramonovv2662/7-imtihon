@@ -1,3 +1,3 @@
-��#� Ko'dni chopganga uarasha duo qib qo'y
+��#� Ko'dni chopganga yarasha duo qib qo'y
 �
 �
